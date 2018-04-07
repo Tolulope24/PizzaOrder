@@ -32,6 +32,11 @@ namespace PizzaOrder
 
         private void btnCost_Click(object sender, EventArgs e)
         {
+            const double PI = 3.14;
+            const double GOODS_AND_SERVICES_TAX = 0.05;
+            const double PROVINCIAL_SALES_TAX = 0.08;
+            double area, Diameter;
+
 
         }
 
